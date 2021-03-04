@@ -1,0 +1,22 @@
+{
+  "name": "teamforyou",
+  "version": "1.0.0",
+  "description": "a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinJhEdwards/teamforyou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinJhEdwards/teamforyou/issues"
+  },
+  "homepage": "https://github.com/ColinJhEdwards/teamforyou#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
